@@ -3,8 +3,8 @@ import { TodoSearch } from './TodoSearch';
 import { TodoList } from './TodoList';
 import { TodoItem } from './TodoItem';
 import { CreateTodoButton } from './CreateTodoButtom';
-import './App.css';
 import React from 'react';
+import {} from '@fortawesome/free-solid-svg-icons'
 
 const defaultTodos = [
   { text: 'Cortar cebolla', completed: true },
