@@ -37,8 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://josue3002.github.io/curso-react-intro",
+  "homepage": "/Users/josue/Downloads/JavaScript/curso-react-intro/public/",
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^4.0.0"
   }
 }
